@@ -1,3 +1,4 @@
+[[我的代辦_簡述]]
 但是skill太多不行了
 #MIT
 0：企業級別微軟的：#我進化智能體技能的執行策略https://github.com/microsoft/SkillOpt   [microsoft](https://github.com/microsoft)
