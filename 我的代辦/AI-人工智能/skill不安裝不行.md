@@ -6,3 +6,4 @@
 3.達爾文skill：让skill无限进化——评估 → 改进 → 测试 → 保留或回滚，全程git留痕[darwin-skill](https://github.com/alchaincyf/darwin-skill)
 4.弗洛伊德：给AI做心理分析，基于Anthropic可解释性研究，诊断prompt / skill的身份冲突并重写[freud-skill](https://github.com/alchaincyf/freud-skill)
 5.Andrej Karpathy：[andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills/tree/main)
+6.Archify：[archify](https://github.com/tt-a1i/archify)
