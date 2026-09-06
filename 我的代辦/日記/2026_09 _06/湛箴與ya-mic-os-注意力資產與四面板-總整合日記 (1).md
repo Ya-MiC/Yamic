@@ -20,7 +20,9 @@ tags:
 status: seed
 type: longform-product-diary
 ---
-
+[[01_2026_09 _06]]
+[[02_2026_09 _06]]
+[[湛箴與ya-mic-os-注意力資產與四面板-可視化爆炸版]]
 # 湛箴與 ya-mic-os：注意力資產、四面板與雙產品邊界——總整合日記
 
 [#業務](#業務) [#zhanzhen](#zhanzhen) [#日記](#日記)
